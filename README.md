@@ -1,5 +1,5 @@
 Prazer! sou Kevin Rychlewski
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 ☕ Tecnologias que eu estudo e prático no dia a dia ☕
