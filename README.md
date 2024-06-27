@@ -3,7 +3,8 @@ Prazer! sou Kevin Rychlewski
 
 
 ☕ Tecnologias que eu estudo e prático no dia a dia ☕
-Codando desde dezembro de 2023 e seguindo 👊
+Codando desde Maio de 2023 e seguindo 👊
+
 <div style="display: inline-block;">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
