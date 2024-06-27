@@ -1,16 +1,19 @@
-## Hi there 👋
+Prazer! sou Kevin Rychlewski
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-<!--
-**KevinRychlewski/KevinRychlewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[!Rychlewski GitHub stats]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Tecnologias que eu estudo e prático no dia a dia ☕
+Codando desde dezembro de 2023 e seguindo 👊
+<div style="display: inline-block;">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+<div style="display: inline-block;">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+<div style="display: inline-block;">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+</div>
+<div style="display: inline-block;">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
