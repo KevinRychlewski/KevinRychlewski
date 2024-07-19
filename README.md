@@ -11,3 +11,4 @@ Codando desde Maio de 2022 e seguindo 👊
 <div style="display: inline-block;">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
