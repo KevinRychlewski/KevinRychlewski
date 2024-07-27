@@ -5,7 +5,7 @@ Prazer! sou Kevin Rychlewski
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinRychlewski&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=radical)
 
 ☕ Tecnologias que eu estudo e prático no dia a dia ☕
-Codando desde Maio de 2023 e seguindo 👊
+Codando desde Maio de 2023 e seguindo 
 
 <div style="display: inline-block;">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
