@@ -8,7 +8,7 @@ Prazer! sou Kevin Rychlewski
 Codando desde Maio de 2023 e seguindo 
 
 <div style="display: inline-block;">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 <div style="display: inline-block;">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
